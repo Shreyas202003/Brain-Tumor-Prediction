@@ -34,9 +34,3 @@ The dataset contains MRI images of brains with and without tumors. It is preproc
 ## Results
 The model achieved an accuracy of **X%** on the test set. Future improvements could involve fine-tuning the model for better precision.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-You can adjust it based on the actual specifics of your project. Let me know if you need any changes!
